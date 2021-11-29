@@ -1,4 +1,5 @@
 - Hi I'm yutadd!👋
 - I like security like seriously like literally!😎
 - Yas, of course I learning about it!😀
-- I wanna collaborate on github to get something such as experience or so.🥰
+- I wanna collaborate on github to get something such as experience or so.😤
+- The most importantest thing is I LOVE VTUBER.🥰
