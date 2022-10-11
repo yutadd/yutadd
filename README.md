@@ -1,7 +1,7 @@
 # Hello I'm DotPiano!👋<br>
-Are you tired of no playful code?<br>
-If you want more playful app, I ready to create'em to you!<br>
-Look at these apps there is no apps that only just boring.<br>
+Are you fed up with software that is not playful?<br>
+If you want fun software, I can make it for you.<br>
+Look at this movie there are no apps on there that are just boring.<br>
 
 https://user-images.githubusercontent.com/35660777/194685006-359582b1-8044-4c31-a805-e814c7205960.mp4
 
