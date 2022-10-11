@@ -15,6 +15,6 @@ etc...
 ## Past⌚
 I have been programming as a hobby since I was in elementary school, aiming to become a pianist. I started by developing a simple slot application using VBA, and have grown up while creating game extensions.<br>
 ## sotials🧑‍🤝‍🧑
-twitter : https://twitter.com/yutadd2<br>
+twitter : https://twitter.com/DotPiano_dev<br>
 youtube : https://www.youtube.com/channel/UCSaS0pG5Xs8s9P_JyjBNY_A<br>
 steam   : https://steamcommunity.com/profiles/76561198874638510/<br>
