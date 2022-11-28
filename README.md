@@ -1,12 +1,16 @@
-# Hello I'm DotPiano!👋<br>
+# こんにちは！ I'm DotPiano!👋<br>
 Are you fed up with software that is not playful?<br>
 If you want fun software, I can make it for you.<br>
 Look at this movie there are no apps on there that are just boring.<br>
 
-https://user-images.githubusercontent.com/35660777/194685006-359582b1-8044-4c31-a805-e814c7205960.mp4
+https://user-images.githubusercontent.com/35660777/204206772-b71d7862-6772-4ed7-b59e-df2a66307647.mp4
 
-├─yutadd/Crazy_Window.git<br>
-└─ yutadd/sus.git<br>
+└─yutadd/AmazingWorldOfEmoji.git<br>
+
+
+https://user-images.githubusercontent.com/35660777/204207338-691de4cc-41c9-4160-8b14-c12d253dcccb.mp4
+
+└─ yutadd/Tetris-Swing-With-AI.git<br>
 ## stats📈
 ・I'm interested in **blockchain**,**web3** technology in general.<br>
 ・I used to programing using java.
