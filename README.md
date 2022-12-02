@@ -1,5 +1,5 @@
 # こんにちは！ I'm DotPiano!👋<br>
-＜学生です＞<br>
+悠太と申します！
 Are you fed up with software that is not playful?<br>
 If you want fun software, I can make it for you.<br>
 Look at this movie there are no apps on there that are just boring.<br>
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/35660777/204207338-691de4cc-41c9-4160-
 └─ yutadd/Tetris-Swing-With-AI.git<br>
 ## stats📈
 ・I'm interested in **blockchain**,**web3** technology in general.<br>
-・I used to programing using java.
+・I used to programing using java.<br>
 etc...
 <br> 
 ## Past⌚
