@@ -3,7 +3,8 @@
 Are you fed up with software that is not playful?  
 If you want fun software, I can make it for you.  
 Look at this movie there are no apps on there that are just boring.  
-ここではできるだけ派手な見た目のプロジェクトを紹介させていただきます！  
+ここではわかりやすさのため、できるだけ派手な見た目のプロジェクトを紹介させていただきます！  
+他にも、見た目の派手さこそありませんが、比較的大きなシステムも作っているので、ぜひご覧ください。  
 ↓例えばSpring+Reactの構成で私が作ったSNS！(開発期間<=一ヶ月)  
 
 https://user-images.githubusercontent.com/35660777/204206772-b71d7862-6772-4ed7-b59e-df2a66307647.mp4
