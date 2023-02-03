@@ -2,11 +2,9 @@
 
 悠太と申します！  
 
-Are you fed up with software that is not playful?  
+Do you want automate any bussiness process?  
 
-If you want fun software, I can make it for you.  
-
-Look at this movie there are no apps on there that are just boring.  
+If you exactly so, employ me please! I ready to create them!   
 
 ここではわかりやすさのため、できるだけ派手な見た目のプロジェクトを紹介させていただきます！  
 
@@ -29,16 +27,16 @@ https://user-images.githubusercontent.com/35660777/204207338-691de4cc-41c9-4160-
 
 ・I want to solv your company's any problem using my code!  
 
-・I used to programing using java.  
+・I used to programing using java lang.  
 
-etc...  
+・I am building my second blockchain system with PoA algorithm for enterprises.
   
 ## Past⌚  
 I have been programming as a hobby since I was in elementary school, aiming to become a pianist.  
 
 I started by developing a simple slot application using VBA, and have grown up while creating game extensions.  
 
-Now, I'm looking for a job!
+I am building a second blockchain system with a PoA algorithm intended for enterprise use.
 
 ## sotials🧑‍🤝‍🧑
 
