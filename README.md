@@ -6,7 +6,7 @@ Do you want automate any bussiness process?
 
 If you exactly so, employ me please! I ready to create them!   
 
-ここではわかりやすさのため、できるだけ派手な見た目のプロジェクトを紹介させていただきます！  
+作品の一部からできるだけ派手な見た目のプロジェクトをすこし紹介させていただきます！  
 
 他にも、見た目の派手さこそありませんが、比較的大きなシステムも作っているので、ぜひご覧ください。  
 
