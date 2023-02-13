@@ -25,8 +25,6 @@ https://user-images.githubusercontent.com/35660777/204207338-691de4cc-41c9-4160-
 ## stats📈  
 ・I'm interested in **blockchain**,**web3** technologies.  
 
-・I creating 2nd blockchain that using PoA algorithm!  
-
 ・I used to programing using java lang.  
 
 ・I am building my second blockchain system with PoA algorithm for enterprises.
