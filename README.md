@@ -2,9 +2,9 @@
 
 悠太と申します！  
 
-Do you want automate any bussiness process?  
+Do you need a engineer?  
 
-If you exactly so, employ me please! I ready to create them!   
+If you exactly so, hire me please! I ready to work!   
 
 作品の一部からできるだけ派手な見た目のプロジェクトをすこし紹介させていただきます！  
 
