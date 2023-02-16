@@ -1,10 +1,8 @@
 # こんにちは！ I'm DotPiano!👋
 
-悠太と申します！  
+also 悠太と申します！  
 
-Do you need a engineer?  
-
-If you exactly so, hire me please! I ready to work!   
+I'm an blockchain-engineer and I would like to be blockchain-consultant.
 
 作品の一部からできるだけ派手な見た目のプロジェクトをすこし紹介させていただきます！  
 
