@@ -25,7 +25,7 @@ https://user-images.githubusercontent.com/35660777/204206772-b71d7862-6772-4ed7-
 └─yutadd/AmazingWorldOfEmoji.git  
 
 
-#### 高校在学時に作った通貨送受信用PoWブロックチェーン`GoldWireCoin`  ![wip](https://img.shields.io/badge/out%20of%20service-out%20of%20service-red) [![commits](https://badgen.net/github/commits/yutadd/GoldWireCoin/master)](https://github.com/yutadd/GoldWireCoin/commits/master?icon=github&color=green)
+#### 高校在学時(3年前)に作った通貨送受信用PoWブロックチェーン`GoldWireCoin`  ![wip](https://img.shields.io/badge/out%20of%20service-out%20of%20service-red) [![commits](https://badgen.net/github/commits/yutadd/GoldWireCoin/master)](https://github.com/yutadd/GoldWireCoin/commits/master?icon=github&color=green)
 
 
 https://user-images.githubusercontent.com/35660777/219844979-7efebd21-75ff-4f5d-b0d6-32cddcd96ff5.mp4
