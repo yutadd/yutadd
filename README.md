@@ -41,3 +41,5 @@ twitter : https://twitter.com/DotPiano_dev
 youtube : https://www.youtube.com/channel/UCSaS0pG5Xs8s9P_JyjBNY_A  
 
 steam   : https://steamcommunity.com/profiles/76561198874638510/  
+
+![](https://komarev.com/ghpvc/?username=yutadd)
