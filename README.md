@@ -1,24 +1,38 @@
 # こんにちは！ I'm DotPiano!👋
-
+![](https://komarev.com/ghpvc/?username=yutadd)  
 also 悠太と申します！  
 
 I'm an blockchain-engineer and I would like to be blockchain-consultant.
 
-作品の一部からできるだけ派手な見た目のプロジェクトをすこし紹介させていただきます！  
+# 作品
+作品の一部をすこし紹介させていただきます！  
+他にも、比較的大きなシステムも作っているので、ぜひご覧ください。  
 
-他にも、見た目の派手さこそありませんが、比較的大きなシステムも作っているので、ぜひご覧ください。  
+#### Rustを用いた企業向けを想定する汎用PoAブロックチェーン`Carlito`  ![wip](https://img.shields.io/badge/work%20in%20progress-wip-yellow) [![commits](https://badgen.net/github/commits/yutadd/Carlito/master)](https://github.com/yutadd/Carlito/commits/master?icon=github&color=green)
+ 一つのコマンドでブロックチェーンネットワーク全体のシミュレーションもできます。
+ 
 
-↓例えばSpring+Reactの構成で私が作ったSNS！(開発期間<=一ヶ月)  
+https://user-images.githubusercontent.com/35660777/219844338-21a8aff6-a7cf-4327-becb-95bd1e076ce3.mp4
+
+
+└─yutadd/Carlito.git  
+
+
+#### Spring+Reactの構成で作ったdiscordのような独自の絵文字操作ができるSNS `AmazingWorldOfEmoji`(開発期間<=一ヶ月)  [![commits](https://badgen.net/github/commits/yutadd/AmazingWorldOfEmoji/main)](https://github.com/yutadd/AmazingWorldOfEmoji/commits/main?icon=github&color=green)
 
 https://user-images.githubusercontent.com/35660777/204206772-b71d7862-6772-4ed7-b59e-df2a66307647.mp4
 
 └─yutadd/AmazingWorldOfEmoji.git  
 
-スピード開発にチャレンジしたときに作成したテトリスをプレイするAI(BOT) (実効開発期間<７時間)  
 
-https://user-images.githubusercontent.com/35660777/204207338-691de4cc-41c9-4160-8b14-c12d253dcccb.mp4
+#### 高校在学時に作った通貨送受信用PoWブロックチェーン`GoldWireCoin`  ![wip](https://img.shields.io/badge/out%20of%20service-out%20of%20service-red) [![commits](https://badgen.net/github/commits/yutadd/GoldWireCoin/master)](https://github.com/yutadd/GoldWireCoin/commits/master?icon=github&color=green)
 
-└─ yutadd/Tetris-Swing-With-AI.git  
+
+https://user-images.githubusercontent.com/35660777/219844979-7efebd21-75ff-4f5d-b0d6-32cddcd96ff5.mp4
+
+
+
+└─yutadd/GoldWireCoin.git  
 
 ## stats📈  
 ・I'm interested in **blockchain**,**web3** technologies.  
@@ -40,6 +54,6 @@ twitter : https://twitter.com/DotPiano_dev
 
 youtube : https://www.youtube.com/channel/UCSaS0pG5Xs8s9P_JyjBNY_A  
 
-steam   : https://steamcommunity.com/profiles/76561198874638510/  
+pando(ポートフォリオ): https://pando.life/@0znvf3hpr1  
 
-![](https://komarev.com/ghpvc/?username=yutadd)
+qiita(技術的解説): https://qiita.com/yutadd  
