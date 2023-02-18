@@ -31,8 +31,18 @@ https://user-images.githubusercontent.com/35660777/204206772-b71d7862-6772-4ed7-
 https://user-images.githubusercontent.com/35660777/219844979-7efebd21-75ff-4f5d-b0d6-32cddcd96ff5.mp4
 
 
-
 └─yutadd/GoldWireCoin.git  
+
+#### 高校在学時(3年前)に作ったスマートフォン用シューティングゲーム`CHRシューティング`  [![commits](https://badgen.net/github/commits/yutadd/Mobile_Danmaku_Game/master)](https://github.com/yutadd/Mobile_Danmaku_Game/commits/master?icon=github&color=green)
+
+
+
+https://user-images.githubusercontent.com/35660777/219847343-997fb8c0-c961-4593-92b8-d0f7f785423a.mp4
+
+
+
+└─yutadd/Mobile_Danmaku_Game.git  
+
 
 ## stats📈  
 ・I'm interested in **blockchain**,**web3** technologies.  
