@@ -6,7 +6,7 @@ I'm an blockchain-engineer and I would like to be blockchain-consultant.
 
 # 作品
 作品の一部をすこし紹介させていただきます！  
-他にも、比較的大きなシステムも作っているので、ぜひご覧ください。  
+ここで紹介したプロジェクトの他にも、比較的大きなシステムも作っているので、ぜひRepositoriesご覧ください。  
 
 #### Rustを用いた企業向けを想定する汎用PoAブロックチェーン`Carlito`  ![wip](https://img.shields.io/badge/work%20in%20progress-wip-yellow) [![commits](https://badgen.net/github/commits/yutadd/Carlito/master)](https://github.com/yutadd/Carlito/commits/master?icon=github&color=green)
  一つのコマンドでブロックチェーンネットワーク全体のシミュレーションもできます。
