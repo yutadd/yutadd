@@ -13,8 +13,8 @@ I'm an blockchain-engineer and I would like to be blockchain-consultant.
 ・トップページにある登壇者の一覧から、登壇者のプロフィールへ一瞬で飛べます  
 ・2020年と2023年バージョンを遷移無しで一瞬で切り替えられます  
 http://react.tedxfukuoka.com/
-にデプロイされているものです！
-↓2023/03/19 19:35分時点での動作の様子
+にデプロイされているものです！  
+↓2023/03/19 19:35分時点での動作の様子  
 
 
 https://user-images.githubusercontent.com/35660777/226160139-c993134f-4949-4184-818d-093b2657a72a.mp4
