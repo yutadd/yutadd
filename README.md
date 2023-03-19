@@ -9,6 +9,16 @@ I'm an blockchain-engineer and I would like to be blockchain-consultant.
 作品の一部をすこし紹介させていただきます！  
 ここで紹介したプロジェクトの他にも、比較的大きなシステムも作っているので、ぜひRepositoriesご覧ください。  
 
+### TEDxFukuokaさんのリニューアルサイト！
+・トップページにある登壇者の一覧から、登壇者のプロフィールへ一瞬で飛べます  
+・2020年と2023年バージョンを遷移無しで一瞬で切り替えられます  
+http://react.tedxfukuoka.com/
+にデプロイされているものです！
+
+
+https://user-images.githubusercontent.com/35660777/226160139-c993134f-4949-4184-818d-093b2657a72a.mp4
+
+
 #### Rustを用いた企業向けを想定する汎用PoAブロックチェーン`Carlito`  ![wip](https://img.shields.io/badge/work%20in%20progress-wip-yellow) [![commits](https://badgen.net/github/commits/yutadd/Carlito/master)](https://github.com/yutadd/Carlito/commits/master?icon=github&color=green)
  一つのコマンドでブロックチェーンネットワーク全体のシミュレーションもできます。
  
@@ -17,14 +27,6 @@ https://user-images.githubusercontent.com/35660777/219844338-21a8aff6-a7cf-4327-
 
 
 └─yutadd/Carlito.git  
-
-
-#### Spring+Reactの構成で作ったdiscordのような独自の絵文字操作ができるSNS `AmazingWorldOfEmoji`(開発期間<=一ヶ月)  [![commits](https://badgen.net/github/commits/yutadd/AmazingWorldOfEmoji/main)](https://github.com/yutadd/AmazingWorldOfEmoji/commits/main?icon=github&color=green)
-
-https://user-images.githubusercontent.com/35660777/204206772-b71d7862-6772-4ed7-b59e-df2a66307647.mp4
-
-└─yutadd/AmazingWorldOfEmoji.git  
-
 
 #### 高校在学時(3年前)に作った通貨送受信用PoWブロックチェーン`GoldWireCoin`  ![wip](https://img.shields.io/badge/out%20of%20service-out%20of%20service-red) [![commits](https://badgen.net/github/commits/yutadd/GoldWireCoin/master)](https://github.com/yutadd/GoldWireCoin/commits/master?icon=github&color=green)
 
