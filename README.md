@@ -1,4 +1,4 @@
-# こんにちは！ I'm DotPiano!👋
+# こんにちは！ I'm DotPiano(also yutad)!👋
 ![](https://komarev.com/ghpvc/?username=yutadd)  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutadd)](https://github.com/anuraghazra/github-readme-stats)
 also 悠太と申します！  
