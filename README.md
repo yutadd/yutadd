@@ -68,6 +68,9 @@ I started by developing a simple slot application using VBA, and have grown up w
 I am building a second blockchain system with a PoA algorithm intended for enterprise use.
 
 I am creating a new site for TEDxFukuoka.
+
+I am participate in hackathon as tech leader.
+
 ## sotials🧑‍🤝‍🧑
 
 twitter : https://twitter.com/DotPiano_dev  
