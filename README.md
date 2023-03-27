@@ -8,6 +8,7 @@ I'm an blockchain-engineer and I would like to be blockchain-consultant.
 # 作品
 作品の一部をすこし紹介させていただきます！  
 ここで紹介したプロジェクトの他にも、比較的大きなシステムも作っているので、ぜひRepositoriesご覧ください。  
+※ポートフォリオとしてでなく、勉強用として作成しているため、少々歪なプロジェクトがあることご容赦ください
 
 ### TEDxFukuokaさんのリニューアルサイト！
 ・トップページにある登壇者の一覧から、登壇者のプロフィールへ一瞬で飛べます  
@@ -19,6 +20,8 @@ http://react.tedxfukuoka.com/
 
 https://user-images.githubusercontent.com/35660777/226160139-c993134f-4949-4184-818d-093b2657a72a.mp4
 
+### ペンシルのハッカソンにて私がテックリードとして開発したもの
+└cafe_kouno.git
 
 #### Rustを用いた企業向けを想定する汎用PoAブロックチェーン`Carlito`  ![wip](https://img.shields.io/badge/work%20in%20progress-wip-yellow) [![commits](https://badgen.net/github/commits/yutadd/Carlito/master)](https://github.com/yutadd/Carlito/commits/master?icon=github&color=green)
  一つのコマンドでブロックチェーンネットワーク全体のシミュレーションもできます。
@@ -51,17 +54,20 @@ https://user-images.githubusercontent.com/35660777/219847343-997fb8c0-c961-4593-
 ## stats📈  
 ・I'm interested in **blockchain**,**web3** technologies.  
 
-・I used to programing using java lang.  
+・I used to programing using java typescript lang.  
 
-・I am building my second blockchain system with PoA algorithm for enterprises.
-  
+・I am participanting 
+
 ## Past⌚  
+I'm a student.
+
 I have been programming as a hobby since I was in elementary school, aiming to become a pianist.  
 
 I started by developing a simple slot application using VBA, and have grown up while creating game extensions.  
 
 I am building a second blockchain system with a PoA algorithm intended for enterprise use.
 
+I am creating a new site for TEDxFukuoka.
 ## sotials🧑‍🤝‍🧑
 
 twitter : https://twitter.com/DotPiano_dev  
