@@ -70,13 +70,10 @@ https://user-images.githubusercontent.com/35660777/219847343-997fb8c0-c961-4593-
 ・I am also participanting to hackathon and developing new website as tech lead.
 
 ## Past⌚  
-I'm a student.
 
-I have been programming as a hobby since I was in elementary school, aiming to become a pianist.  
+2 or 4 years ago, I have been programming as a hobby since I was in elementary school. However I aiming to become a pianist then. 
 
-I started by developing a simple slot application using VBA, and have grown up while creating game extensions.  
-
-I am building a second blockchain system with a PoA algorithm intended for enterprise use.
+I am building a 2nd blockchain system with a PoA algorithm intended for enterprise use.
 
 I am creating a new site for TEDxFukuoka.
 
