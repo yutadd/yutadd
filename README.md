@@ -15,7 +15,7 @@ I'm an blockchain-engineer and I would like to be blockchain-consultant.
 ・2020年と2023年バージョンを遷移無しで一瞬で切り替えられます  
 http://react.tedxfukuoka.com/
 にデプロイされているものです！  
-↓2023/03/30 時点での動作の様子  
+↓2023/03/30 時点での動作の様子（音声で解説を行っています💦プレイヤーの音声をオンにしてください！） 
 
 
 https://user-images.githubusercontent.com/35660777/228811299-2455a2f9-657d-421b-a8c6-12d1ec8999af.mp4
@@ -24,12 +24,12 @@ https://user-images.githubusercontent.com/35660777/228811299-2455a2f9-657d-421b-
 
 ### ペンシルのハッカソンにて私がテックリードとして開発したもの
 
-↓予約方法の解説動画（音声で解説を行っています💦プレイヤーの音声をオンにしてください！）
+↓予約方法の解説動画（これも音声で解説を行っています💦プレイヤーの音声をオンにしてください！）
 
 https://user-images.githubusercontent.com/35660777/228745479-622845f3-d69f-467c-ad9a-e9f78a0e4488.mp4
 
 
-↓予約管理画面の解説動画（音声で解説を行っています💦プレイヤーの音声をオンにしてください！）
+↓予約管理画面の解説動画（もちろんこれも音声で解説を行っています💦）
 
 https://user-images.githubusercontent.com/35660777/228745525-9d731443-bc15-4d15-8b3a-4cbdf2adac10.mp4
 
