@@ -11,15 +11,12 @@ I'm an blockchain-engineer and I would like to be blockchain-consultant.
 ※ポートフォリオとしてでなく、勉強用として作成しているため、少々歪なプロジェクトがあることご容赦ください
 
 ### TEDxFukuokaさんのリニューアルサイト！
-・トップページにある登壇者の一覧から、登壇者のプロフィールへ一瞬で飛べます  
-・2020年と2023年バージョンを遷移無しで一瞬で切り替えられます  
 http://react.tedxfukuoka.com/
-にデプロイされているものです！  
+にデプロイされました！  
 ↓2023/03/30 時点での動作の様子（音声で解説を行っています💦プレイヤーの音声をオンにしてください！） 
 
 
-https://user-images.githubusercontent.com/35660777/228811299-2455a2f9-657d-421b-a8c6-12d1ec8999af.mp4
-
+https://user-images.githubusercontent.com/35660777/228813464-29ce4581-58ec-4ffc-9eb2-26735cc063e2.mp4
 
 
 ### ペンシルのハッカソンにて私がテックリードとして開発したもの
