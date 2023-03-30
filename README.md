@@ -65,7 +65,7 @@ https://user-images.githubusercontent.com/35660777/219847343-997fb8c0-c961-4593-
 
 ・I used to programing using java typescript lang.  
 
-・I am participanting 
+・I am participanting to TEDxFukuoka and developing new website.
 
 ## Past⌚  
 I'm a student.
