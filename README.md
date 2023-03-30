@@ -23,6 +23,15 @@ https://user-images.githubusercontent.com/35660777/226160139-c993134f-4949-4184-
 ### ペンシルのハッカソンにて私がテックリードとして開発したもの
 └cafe_kouno.git
 
+予約方法の解説動画
+
+https://user-images.githubusercontent.com/35660777/228745479-622845f3-d69f-467c-ad9a-e9f78a0e4488.mp4
+
+
+予約管理画面の解説動画
+
+https://user-images.githubusercontent.com/35660777/228745525-9d731443-bc15-4d15-8b3a-4cbdf2adac10.mp4
+
 #### Rustを用いた企業向けを想定する汎用PoAブロックチェーン`Carlito`  ![wip](https://img.shields.io/badge/work%20in%20progress-wip-yellow) [![commits](https://badgen.net/github/commits/yutadd/Carlito/master)](https://github.com/yutadd/Carlito/commits/master?icon=github&color=green)
  一つのコマンドでブロックチェーンネットワーク全体のシミュレーションもできます。
  
