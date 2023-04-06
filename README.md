@@ -12,7 +12,7 @@ I'm developping a lot of service and application!
 
 ### TEDxFukuokaさんのリニューアルサイト！
 一週間かからずほぼすべて開発し、現在もブラッシュアップを続けています。
-http://react.tedxfukuoka.com/
+http://tedxfukuoka.com/
 にデプロイされました！  
 ↓2023/03/30 時点での動作の様子（音声で解説を行っています💦プレイヤーの音声をオンにしてください！） 
 
