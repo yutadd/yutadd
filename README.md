@@ -5,6 +5,8 @@ also 悠太と申します！
 
 I'm developping a lot of service and application!
 
+※現在CNDの勉強中
+
 # 作品
 作品の一部をすこし紹介させていただきます！  
 ここで紹介したプロジェクトの他にも、比較的大きなシステムも作っているので、ぜひRepositoriesご覧ください。  
