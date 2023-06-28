@@ -3,7 +3,7 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yutadd)](https://github.com/anuraghazra/github-readme-stats)  
 also 悠太と申します！  
 
-I'm developping a lot of service and application!
+I'm developing a lot of services and applications!
 
 ※現在CNDの勉強中
 
