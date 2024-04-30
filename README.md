@@ -5,7 +5,7 @@ also 悠太と申します！
 
 I'm developing a lot of services and applications!
 
-※現在CNDの勉強中
+CND持ってるぜ！
 
 # 作品
 作品の一部をすこし紹介させていただきます！  
